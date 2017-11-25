@@ -1,4 +1,4 @@
-FROM ubuntu:17.04
+FROM jenkins/jenkins:lts
 
 LABEL de.mindrunner.android-docker.flavour="built-in"
 
